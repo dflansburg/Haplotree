@@ -1,0 +1,9 @@
+F:\HaploTree\HaploTree\obj\Debug\HaploTree.frmImport.resources
+F:\HaploTree\HaploTree\obj\Debug\HaploTree.Resources.resources
+F:\HaploTree\HaploTree\obj\Debug\HaploTree.vbproj.GenerateResource.Cache
+F:\HaploTree\HaploTree\bin\Debug\HaploTree.exe
+F:\HaploTree\HaploTree\bin\Debug\HaploTree.pdb
+F:\HaploTree\HaploTree\bin\Debug\HaploTree.xml
+F:\HaploTree\HaploTree\obj\Debug\HaploTree.exe
+F:\HaploTree\HaploTree\obj\Debug\HaploTree.xml
+F:\HaploTree\HaploTree\obj\Debug\HaploTree.pdb

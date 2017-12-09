@@ -1,0 +1,16 @@
+F:\HaploTree\HaploTree\bin\x86\Debug\HaploTree.exe
+F:\HaploTree\HaploTree\bin\x86\Debug\HaploTree.pdb
+F:\HaploTree\HaploTree\bin\x86\Debug\HaploTree.xml
+F:\HaploTree\HaploTree\obj\x86\Debug\HaploTree.frmImport.resources
+F:\HaploTree\HaploTree\obj\x86\Debug\HaploTree.Resources.resources
+F:\HaploTree\HaploTree\obj\x86\Debug\HaploTree.vbproj.GenerateResource.Cache
+F:\HaploTree\HaploTree\obj\x86\Debug\HaploTree.exe
+F:\HaploTree\HaploTree\obj\x86\Debug\HaploTree.xml
+F:\HaploTree\HaploTree\obj\x86\Debug\HaploTree.pdb
+F:\HaploTree\HaploTree\obj\x86\Debug\HaploTree.frmMembers.resources
+F:\HaploTree\HaploTree\obj\x86\Debug\HaploTree.frmMain.resources
+F:\HaploTree\HaploTree\obj\x86\Debug\HaploTree.frmMembersSearch.resources
+F:\HaploTree\HaploTree\obj\x86\Debug\HaploTree.frmMembersSNPs.resources
+F:\HaploTree\HaploTree\obj\x86\Debug\HaploTree.frmTree.resources
+F:\HaploTree\HaploTree\obj\x86\Debug\HaploTree.vbprojResolveAssemblyReference.cache
+F:\HaploTree\HaploTree\obj\x86\Debug\HaploTree.frmSplash.resources
